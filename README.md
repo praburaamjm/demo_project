@@ -2,4 +2,4 @@
 
 A sample project to explore and understand git/github
 
-![Git meme](https://github.com/praburaamjm/demo_project/blob/main/20220708_000428.jpg)
+![Git meme](./20220708_000428.jpg)
