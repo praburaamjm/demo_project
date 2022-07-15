@@ -2,4 +2,5 @@
 adding file
 A sample project to explore and understand git/github
 
-![Git meme](./20220708_000428.jpg)
+Contributed by the Willow team
+![Willow Team](./Willow-Gallery/IMG-20190628-WA0034.jpg)
