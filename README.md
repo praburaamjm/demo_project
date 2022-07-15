@@ -4,4 +4,4 @@ A sample project to explore and understand git/github
 
 Contributed by the Willow team
 
-![Willow Team](./Willow-Gallery/IIMG_5616.JPG)
+![Willow Team](./Willow-Gallery/IMG_5616.JPG)
